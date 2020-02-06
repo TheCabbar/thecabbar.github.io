@@ -39,7 +39,7 @@ layout: default
 - Hangi oyunları oynuyorsun?
   - <a href="assets/games/steamgames.htm" target="_blank" class="btn"><i class="fa fa-gamepad"></i> Oyunlar</a>
 - Ne zamanlar yayın açıyorsun?
-  - Hafta içi her gün saat 03:00 da. Detaylı bilgi ve değişiklikler için <a href="https://discord.gg/4MQCyRt" target="_blank" class="btn"><i class="fab fa-discord"></i> Discord</a> sunucumuza katılabilirsiniz.
+  - Hafta içi her gün saat 03:00 da. Detaylı bilgi ve değişiklikler için <a href="https://discord.gg/4MQCyRt" target="_blank" class="btn"><i class="fab fa-discord"></i> Discord</a> sunucuma katılabilirsiniz.
 - Hangi platformlar üzerinden seni destekleyelebiliriz?
   - Yurt içi
     - <a href="https://www.bynogame.com/destekle/thecabbar" target="_blank" class="btn"><i class="fab fa-lira-sign"></i> Bynogame</a> <a href="https://www.oyunfor.com/twitch-donate/thecabbar" target="_blank" class="btn"><i class="fab fa-lira-sign"></i> Oyunfor</a>
