@@ -27,7 +27,7 @@ layout: default
   - 2005 yılından beri gitar çalıyorum. Müzik yapmayı seviyorum. Yazdığım birkaç şarkı var. Bazen yayınlarda onları çalıyorum. 
   - 2010 yılından beri havacılıkla ilgileniyorum. Uçuş simulasyonlarında binlerce saati aşkın bir süredir uçuyorum. Son olarak Türk Hava Yolları Sanal Havayolları'nda uçmaktayım. Yayınlarda da bazen eğlenceli uçuşlara yer vermeye çalışıyorum.
 - Üniversite hayatın boyunca hangi dersleri aldın?
-  - [Buradan ilgili tabloya ulaşabilirsiniz](assets/courses/course.htm).
+  - [Buradan ilgili tabloya ulaşabilirsiniz](assets/courses/courses.htm).
 - Hangi oyunları oynuyorsun?
   - [Buradan ilgili tabloya ulaşabilirsiniz](assets/games/steamgames.htm).
 
