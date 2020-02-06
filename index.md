@@ -42,19 +42,13 @@ layout: default
   - Hafta içi her gün saat 03:00 da. Detaylı bilgi ve değişiklikler için <a href="https://discord.gg/4MQCyRt" target="_blank" class="btn"><i class="fab fa-discord"></i> Discord</a> sunucumuza katılabilirsiniz.
 - Hangi platformlar üzerinden seni destekleyelebiliriz?
   - Yurt içi
-    - <a href="https://www.bynogame.com/destekle/thecabbar" target="_blank" class="btn"><i class="fab fa-lira-sign"></i> Bynogame</a>
-    - <a href="https://www.oyunfor.com/twitch-donate/thecabbar" target="_blank" class="btn"><i class="fab fa-lira-sign"></i> Oyunfor</a>
+    - <a href="https://www.bynogame.com/destekle/thecabbar" target="_blank" class="btn"><i class="fab fa-lira-sign"></i> Bynogame</a> <a href="https://www.oyunfor.com/twitch-donate/thecabbar" target="_blank" class="btn"><i class="fab fa-lira-sign"></i> Oyunfor</a>
   - Yurt dışı
-    - <a href="https://streamlabs.com/thecabbar" target="_blank" class="btn"><i class="fab fa-dollar-sign"></i> Streamlabs</a>
-    - <a href="https://streamelements.com/thecabbar/tip" target="_blank" class="btn"><i class="fab fa-dollar-sign"></i> StreamElements</a>
+    - <a href="https://streamlabs.com/thecabbar" target="_blank" class="btn"><i class="fab fa-dollar-sign"></i> Streamlabs</a> <a href="https://streamelements.com/thecabbar/tip" target="_blank" class="btn"><i class="fab fa-dollar-sign"></i> StreamElements</a>
 - Twitch kanalına nereden abone olabilirim?
   - <a href="https://www.twitch.tv/subs/TheCabbar" target="_blank" class="btn"><i class="fab fa-glass-cheers"></i> Abonelik</a>
 - Sosyal medya hesaplarına nereden ulaşabilirim?
-  - <a href="https://twitch.tv/thecabbar" target="_blank" class="btn"><i class="fab fa-twitch"></i> Twitch</a>          
-  - <a href="https://discord.gg/4MQCyRt" target="_blank" class="btn"><i class="fab fa-discord"></i> Discord</a>          
-  - <a href="https://www.youtube.com/channel/UCyWk8LI0YHFUNdhaGBBnyaA" target="_blank" class="btn"><i class="fab fa-youtube"></i> Youtube</a>
-  - <a href="https://twitter.com/TheCabbarPr" target="_blank" class="btn"><i class="fab fa-twitter"></i> Twitter</a>
-  - <a href="https://steamcommunity.com/id/thecabbar" target="_blank" class="btn"><i class="fab fa-steam"></i> Steam</a>
+  - <a href="https://twitch.tv/thecabbar" target="_blank" class="btn"><i class="fab fa-twitch"></i> Twitch</a> <a href="https://discord.gg/4MQCyRt" target="_blank" class="btn"><i class="fab fa-discord"></i> Discord</a> <a href="https://www.youtube.com/channel/UCyWk8LI0YHFUNdhaGBBnyaA" target="_blank" class="btn"><i class="fab fa-youtube"></i> Youtube</a> <a href="https://twitter.com/TheCabbarPr" target="_blank" class="btn"><i class="fab fa-twitter"></i> Twitter</a> <a href="https://steamcommunity.com/id/thecabbar" target="_blank" class="btn"><i class="fab fa-steam"></i> Steam</a>
 - İnternet hızın nedir ve ne kadar ödüyorsun?
   - $50 ödüyorum. 100Mbit indirme, 12Mbit yükleme.
 - Hangi programlama dillerini ve teknolojileri biliyorsun?
