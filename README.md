@@ -1,2 +1,2 @@
-# thecabbar.github.io
+# TheCabbar
 This is my web page!
