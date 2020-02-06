@@ -31,6 +31,5 @@ layout: default
 - Hangi oyunları oynuyorsun?
   - <a href="assets/games/steamgames.htm" target="_blank" class="btn"><i class="fa fa-gamepad"></i> Oyunlar</a>
 
-```
-Copyright &copy; 2020, <a href="https://twitch.tv/thecabbar" target="_blank" class="btn"><i class="fab fa-twitch"></i> View on Twitch</a>.
-```
+
+> Copyright &copy; 2020, <a href="https://twitch.tv/thecabbar" target="_blank" class="btn"><i class="fab fa-twitch"></i> View on Twitch</a>.
