@@ -17,7 +17,15 @@ layout: default
 - Liseyi nerede okudun?
   - Antalya'da. Düz lise mezunuyum. 
 - Üniversiteyi nerede okudun ve hangi bölümden mezunsun?
-  - İstanbul. Bahçeşehir Üniversitesi (%50 burslu) Bilgisayar Mühendisliği bölümü mezunuyum. 2016 Haziran'da mezun oldum.
+  - İstanbul. Bahçeşehir Üniversitesi (%50 burslu) Bilgisayar Mühendisliği bölümü mezunuyum. 2016 Haziran'da mezun oldum. Son yılımda;
+    - Introduction to C Programming
+    - Introduction to C++ Programming
+    - Object Oriented C++ Programming
+    - Data Structure and Algorithms in C++
+    - Advanced Programming (JAVA)
+    - Introduction to Computer Networks
+    - Digital System Design
+    - Embedded Systems Programming derslerinin öğrenci asistanlığını yaptım.
 - Yüksek lisansını nerede ve ne üzerine yaptın?
   - Üniversiteyi bitirdikten hemen sonra, 2016 Ağustos ayında Amerika'ya geldim. Arkansas eyaletinde yüksek lisansıma başladım. Bilgisayar bilimleri bölümünde bilgisayar grafikleri(Computer graphics) üzerine yüksek lisansımı yaptım. Sanal gerçeklik ve cerrahi simulasyonlar üzerine araştırmalar yapıp, makalaler yazıp, simulasyonlar geliştirdim. Bu süreçte araştırma görevlisi olarak çalıştım ve geçimimi bu şekilde sağladım. 2018 Haziran ayında yüksek lisansımı tamamladım.
 - Doktorayı nerede yapıyorsun?
@@ -30,6 +38,44 @@ layout: default
   - <a href="assets/courses/courses.htm" target="_blank" class="btn"><i class="fa fa-book"></i> Dersler</a>
 - Hangi oyunları oynuyorsun?
   - <a href="assets/games/steamgames.htm" target="_blank" class="btn"><i class="fa fa-gamepad"></i> Oyunlar</a>
+- Ne zamanlar yayın açıyorsun?
+  - Hafta içi her gün saat 03:00 da. Detaylı bilgi ve değişiklikler için <a href="https://discord.gg/4MQCyRt" target="_blank" class="btn"><i class="fab fa-discord"></i> Discord</a> sunucumuza katılabilirsiniz.
+- Hangi platformlar üzerinden seni destekleyelebiliriz?
+  - Yurt içi
+    - <a href="https://www.bynogame.com/destekle/thecabbar" target="_blank" class="btn"><i class="fab fa-lira-sign"></i> Bynogame</a>
+    - <a href="https://www.oyunfor.com/twitch-donate/thecabbar" target="_blank" class="btn"><i class="fab fa-lira-sign"></i> Oyunfor</a>
+  - Yurt dışı
+    - <a href="https://streamlabs.com/thecabbar" target="_blank" class="btn"><i class="fab fa-dollar-sign"></i> Streamlabs</a>
+    - <a href="https://streamelements.com/thecabbar/tip" target="_blank" class="btn"><i class="fab fa-dollar-sign"></i> StreamElements</a>
+- Twitch kanalına nereden abone olabilirim?
+  - <a href="https://www.twitch.tv/subs/TheCabbar" target="_blank" class="btn"><i class="fab fa-glass-cheers"></i> Abonelik</a>
+- Sosyal medya hesaplarına nereden ulaşabilirim?
+  - <a href="https://twitch.tv/thecabbar" target="_blank" class="btn"><i class="fab fa-twitch"></i> Twitch</a>          
+  - <a href="https://discord.gg/4MQCyRt" target="_blank" class="btn"><i class="fab fa-discord"></i> Discord</a>          
+  - <a href="https://www.youtube.com/channel/UCyWk8LI0YHFUNdhaGBBnyaA" target="_blank" class="btn"><i class="fab fa-youtube"></i> Youtube</a>
+  - <a href="https://twitter.com/TheCabbarPr" target="_blank" class="btn"><i class="fab fa-twitter"></i> Twitter</a>
+  - <a href="https://steamcommunity.com/id/thecabbar" target="_blank" class="btn"><i class="fab fa-steam"></i> Steam</a>
+- İnternet hızın nedir ve ne kadar ödüyorsun?
+  - $50 ödüyorum. 100Mbit indirme, 12Mbit yükleme.
+- Hangi programlama dillerini ve teknolojileri biliyorsun?
+  - Programlama dilleri
+    - C, C++, C#, Java, Python
+    - SQL(MSSQL, OracleSQL, MySQL, PL/SQL)
+    - JavaScript, HTML, CSS, PHP
+    - Verilog, Bash, MIPS
+  - Araçlar ve teknolojileri
+    - Tensorflow, MATLAB, 3DS MAX, ZBrush, p5.js, Cisco IOS, Java Processing, Git, LaTeX, Arduino, Raspberry Pi, PlatformIO, Unity, WebGL, OpenGL
+  - İşletim sistemleri
+    - Linux
+    - Windows
+    - MacOS
+  - Çalışma alanları
+    - Computer Graphics
+    - Embedded System Programming
+    - IoT
+    - Artificial Intelligence
+    - Machine Learning
+- Nereden iletişime geçebilirim?
+  - Aklındaki soru işaretlerini gidermek için <a href="https://discord.gg/4MQCyRt" target="_blank" class="btn"><i class="fab fa-discord"></i> Discord</a> sunucumdaki birbirinden çeşitli kanallarda sorularını paylaşabilir veya <a href="https://twitch.tv/thecabbar" target="_blank" class="btn"><i class="fab fa-twitch"></i> Twitch</a> kanalındaki yayınlara gelip sorularını sorabilirsin. 
 
-
-> Copyright &copy; 2020, TheCabbar <a href="https://twitch.tv/thecabbar" target="_blank" class="btn"><i class="fab fa-twitch"></i> View on Twitch</a>
+> Copyright &copy; 2020, TheCabbar <a href="https://twitch.tv/thecabbar" target="_blank" class="btn"><i class="fab fa-twitch"></i> Twitch</a>
